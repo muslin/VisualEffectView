@@ -1,0 +1,6 @@
+framework module Pods_VisualEffectView {
+  umbrella header "Pods-VisualEffectView-umbrella.h"
+
+  export *
+  module * { export * }
+}
