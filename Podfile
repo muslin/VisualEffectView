@@ -20,4 +20,6 @@ target 'VisualEffectView' do
 
   # Pods for VisualEffectView
 
+  #Database
+#  pod 'ObjectMapper'
 end
